@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 <h3>🌱 I’m currently learning Data Science and Machine Learning with Python</h3>
 <h3>👯 I’m looking to collaborate on Machine Learning Research Field</h3>
-<h3>📫 How to reach me: <a href="natunbikashc77@gmail.com"></a></h3>
+<h3>📫 How to reach me: <a href = "mailto: abc@example.com"></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbikashchakma&label=Profile%20views&color=0e75b6&style=flat" alt="nbikashchakma" /> </p>
 
