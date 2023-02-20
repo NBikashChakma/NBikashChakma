@@ -8,14 +8,15 @@
 
 <h1 align="center">🌐 Socials</h1>
 
+
+<!--<p dir="auto">-->
 <p align="center">
-<p dir="auto">
   <a href="https://discord.gg/" rel="nofollow"><img src="https://camo.githubusercontent.com/9c1f6abe034a366f0b32065ddd7016cfa744156cb1dfd111f9921ff04d9b21b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://linkedin.com/in/natun-bikash-chakma-354a6415b/" rel="nofollow"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://facebook.com/natunbikash.chakma.12" rel="nofollow"><img src="https://camo.githubusercontent.com/6507b6af1fa0c23a32321b4594fe0f353fc56a2e6721ea67a5f51cd830c85b61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d2532333138373746322e7376673f6c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a> 
   <a href="https://medium.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/771af957ebd52645704462209592c7a0a359feaec816337fee900e4478278219/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f6c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://twitter.com/chakma_natun" rel="nofollow"><img src="https://camo.githubusercontent.com/2cbca4be42d81c6833fd417d74f5322e80861326d03d52289924138947be7b4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</p>
+
 
 <h1 align="center">💠 Languages and Tools</h1>
 
