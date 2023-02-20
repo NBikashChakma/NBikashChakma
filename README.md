@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbikashchakma&label=Profile%20views&color=0e75b6&style=flat" alt="nbikashchakma" /> </p>
 
 <h1 align="center">🌐 Socials:</h1>
-<p align="left"> <a href="[https://getbootstrap.com](https://www.linkedin.com/in/natun-bikash-chakma-354a6415b/)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.freepik.com/free-icon/linkedin_928939.htm#query=linkedin%20logo%20white&position=0&from_view=keyword&track=ais)" alt="bootstrap" width="40" height="40"/> </a>
+<p align="left"> <a href="[https://getbootstrap.com](https://www.linkedin.com/in/natun-bikash-chakma-354a6415b/)" target="_blank" rel="noreferrer"> <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.freepik.com/free-icon/linkedin_928939.htm#query=linkedin%20logo%20white&position=0&from_view=keyword&track=ais)](https://www.linkedin.com/in/natun-bikash-chakma-354a6415b/)" alt="linkedin" width="40" height="40"/> </a>
 
 <p align="left">
 </p>
