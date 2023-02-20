@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me</h1>
 <h3>🌱 I’m currently learning Data Science and Machine Learning with Python</h3>
 <h3>👯 I’m looking to collaborate on Machine Learning Research Field</h3>
 <h3>📫 How to reach me: natunbikashc77@gmail.com</h3>
